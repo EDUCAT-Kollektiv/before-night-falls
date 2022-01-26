@@ -362,12 +362,6 @@
          "id":19,
          "name":"dom",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"cave.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,

@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/rest-of-2020.json#start_rcc"
+                 "value":"weimar.json"
                 }],
          "type":"tilelayer",
          "visible":true,
